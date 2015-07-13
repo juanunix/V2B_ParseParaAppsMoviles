@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Tareas": {
+      "applicationId": "8vaD9Mydf72cf23H4huORs2Y56Ro9MX8suEojbO8",
+      "masterKey": "E1v42RweoxHxq7B0hUjPF7RsjD3TjDCvi8MY69lA"
+    },
+    "_default": {
+      "link": "Tareas"
+    }
+  }
+}
